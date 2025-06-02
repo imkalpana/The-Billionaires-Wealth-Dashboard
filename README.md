@@ -17,7 +17,7 @@ Most billionaires are between 50 and 70 years old, but the ranks of young wealth
 
 ### Worth by country:
 The United States has the most billionaires' wealth, followed by China and India. However, these countries also have the largest populations, so the average wealth per capita. is much lower.
-## A ditional information: Beyond the Billions
+## Additional information: Beyond the Billions
 ###Wealth on the Rise:
 The top 10 billionaires have seen their wealth balloon by a staggering $280 billion this year, surpassing the GDP of many small nations. The tech sector witnessed the most significant wealth surge, followed by fashion & retail and healthcare.
 
