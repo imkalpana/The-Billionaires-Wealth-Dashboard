@@ -1,6 +1,6 @@
 # The Billionaires Wealth Dashboard
 This project unveils the staggering collective wealth of the world's billionaires, delving into regional distributions, industry powerhouses, and the stark gender gap that persists. Up next, you will find the staggering figures, intriguing trends, and the stark socio-economic implications they unveil.
-
+https://github.com/imkalpana/The-Billionaires-Wealth-Dashboard/blob/main/Dashboard.JPG
 ### A Sea of Wealth:
 The combined net worth of all billionaires currently sits at a mind-boggling $12 trillion, rivaling the economic might of entire nations. North America reigns supreme in terms of total wealth, but Asia boasts the most billionaires, highlighting the region's growing economic clout.
 ### The Titans at the Top:
